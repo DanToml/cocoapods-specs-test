@@ -1,0 +1,4 @@
+test:
+  override:
+    - du -sh .git
+    - du -sh Specs/
